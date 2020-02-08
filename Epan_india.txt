@@ -1,1 +1,0 @@
-Welcome to the EPAM PEP program. Here is the first task regarding the usage of Git and understanding Gits commands.
